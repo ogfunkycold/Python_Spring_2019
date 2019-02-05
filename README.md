@@ -30,10 +30,10 @@ The most straightforward way to install this software is via the Conda environme
 
 ### Part 1:  Python Essentials
 Feb. 26: &ensp;Overview, 'Hello World!,' variables and assignment  
-Oct. 11: &ensp;Conditionals, functions  
-Oct. 18:  &ensp;Loops, lists, tuples, dictionaries  
-Oct. 25:  &ensp;Objects, methods, modules  
-Nov. &nbsp;1:  &ensp;Package management via PiP and Conda
+Mar. &nbsp;5: &ensp;Conditionals, functions  
+Mar. 12:  &ensp;Loops, lists, tuples, dictionaries  
+Mar. 19:  &ensp;Objects, methods, modules  
+Apr. &nbsp;2:  &ensp;Package management via PiP and Conda
 
 ### Part 2:  Useful Python Packages 
 Nov. &nbsp;8: &ensp;Efficient Python programming with NumPy   
