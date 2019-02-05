@@ -14,7 +14,7 @@ ARC 677  (east campus)
 Daniel.Trahan@Colorado.edu
 
 ### Date & Time:
-Tuesdays 9:00 am - 10:30 am  (led by Nick)
+Tuesdays 9:00 am - 10:30 am  (led by Nick)  
 Wednesdays 1:30 pm - 3:00 pm (led by Daniel)
 
 ### Location:
