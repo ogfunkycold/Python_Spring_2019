@@ -1,16 +1,23 @@
 ## RC Python Workshop Series (Fall 2018)
 
-### Instructor:
-Nick Featherstone 
-303-735-2102  
-ARC 677
+### Instructors:
+Nick Featherstone  
+Applied Mathematics  
+ECOT 217  
+303-492-6974  
+
+Daniel Trahan  
+Research Computing  
+ARC 677  
+303-735-2102    
+
 
 ### Date & Time:
 Thursdays 10:00 am - 11:30 am  
 
 
 ### Location:
-Norlin Library Room E206 (CRDDS)
+Newton Lab (ECCR 257; Applied Mathematics)
 
 
 ### Description:  
