@@ -3,13 +3,13 @@
 ### Instructors:
 Nick Featherstone  
 Applied Mathematics  
-ECOT 217  (main campus)
+ECOT 217  (main campus)  
 303-492-6974  
 feathern@colorado.edu  
 
 Daniel Trahan  
 Research Computing  
-ARC 677  (east campus)
+ARC 677  (east campus)  
 303-735-2102    
 Daniel.Trahan@Colorado.EDU
 
