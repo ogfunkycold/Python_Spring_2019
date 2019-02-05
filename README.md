@@ -11,7 +11,7 @@ Daniel Trahan
 Research Computing  
 ARC 677  (east campus)  
 303-735-2102    
-Daniel.Trahan@Colorado.EDU
+Daniel.Trahan@Colorado.edu
 
 ### Date & Time:
 Tuesdays 9:00 am - 10:30 am   
