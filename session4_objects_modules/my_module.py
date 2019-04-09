@@ -6,6 +6,7 @@ def main():
 
 val1 = 1
 val2 = 2
+print('name: ', __name__)
 
 if (__name__ == '__main__'):
     main()

@@ -1,4 +1,4 @@
-
+import sys
 def factorial(n):
     if (n <= 1):
         return 1
@@ -7,5 +7,6 @@ def factorial(n):
 
 mstr = input("Enter a number: ")
 m = int(mstr)
+sys.setrecursionlimit(m+2)
 
 print('m! is',factorial(m),'.')
