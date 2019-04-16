@@ -25,7 +25,7 @@ def main():
         a[i] = i*i
         b[i] = a[i]*i*(-1)**imod
     t2 = time.time()
-    dt = t2-t2
+    dt = t2-t1
     print('Init time (s): ', dt)
     for i in range(ntests):
         dotprod(a,b)
